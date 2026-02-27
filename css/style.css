@@ -39,7 +39,7 @@ h1{
 }
 
 button{
-    background-color: #3882F6;
+    background-color: #040d1b;
     color:white;
     width: 110px;
     height: 30px;
@@ -50,7 +50,7 @@ button{
 /* Top Section Only */
 
 .top{
-    background-color:#1F2937 ;
+    background-color:#4b182f ;
     flex-direction: column; 
     gap:80px;
 }
@@ -97,11 +97,12 @@ button{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    background-color: #312eb8;
 }
 
 .mid-text{
     font-size:36px;
-    color:#1F2937;
+    color:#fdfdfd;
     font-weight: 900;
     margin-top: 30px;
     margin-bottom: 35px;
@@ -115,6 +116,7 @@ button{
 
 .img-subtext{
     font-size:16px;
+    color:#d8d8d8
 }
 
 .cards{
@@ -125,10 +127,8 @@ button{
 }
 
 .blue-border-img{
-    border:5px solid ;
+    border:5px solid transparent ;
     border-radius: 10px;
-    border-color: #3882F6;
-    padding: 80px;
     margin-bottom: 8px;
 }
 
@@ -136,7 +136,7 @@ button{
 
 .mid-two{
     
-    background-color: #e5e7eb;
+    background-color: #4a1e5f;
     flex-direction: column;
     justify-content: center;
 }
@@ -146,7 +146,7 @@ button{
     font-size:36px;
     font-style:italic;
     margin:0;
-    color:#1F2937;
+    color:#bbbaba;
     font-weight: 300;
     max-width: 940px;
 }
@@ -157,16 +157,18 @@ button{
     font-size:25px;
     margin-top:35px;
     margin-left:600px;
+    color: #bbbaba;
 }
 
 /* Bottom Section Only */
 .bottom{
+    background-color: #312eb8;
     justify-content: center;
     align-items: center;
 }
 
 .call-box{
-    background-color:#3882F6 ;
+    background-color:#4b182f ;
     max-width: 900px;
     width: 100%;
     height: 120px;
@@ -204,7 +206,7 @@ button{
     font-size:15px;
     color:white;
     height:120px;
-    background-color: #1F2937;
+    background-color: #4a1e5f;
 }
 
 
