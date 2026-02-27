@@ -74,4 +74,5 @@ https://www.theodinproject.com/
 
 Built by Soren Javedan
 
-GitHub: https://github.com/SorenJavedan
+GitHub: https://github.com/JavedanCode
+
